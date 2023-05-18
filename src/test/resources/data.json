@@ -1,0 +1,10 @@
+{
+  "username": "standard_user",
+  "password": "secret_sauce",
+  "url": "https://www.saucedemo.com",
+  "invalidUsername": "standard",
+  "invalidPassword": "secret_sauce",
+  "firstName": "Raj",
+  "lastName": "Kola",
+  "postalCode": "E7 8DU"
+}
